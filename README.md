@@ -28,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Fiqqar/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Fiqqar/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
