@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Fiqqar/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1894-merge-strings-alternately](https://github.com/Fiqqar/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Fiqqar/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/Fiqqar/Leetcode/tree/master/3447-clear-digits) |
 ## String Matching
 |  |
 | ------- |
@@ -57,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Fiqqar/Leetcode/tree/master/0069-sqrtx) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Fiqqar/Leetcode/tree/master/3447-clear-digits) |
+## Simulation
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Fiqqar/Leetcode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
