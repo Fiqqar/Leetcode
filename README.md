@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Fiqqar/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Fiqqar/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Fiqqar/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Fiqqar/Leetcode/tree/master/0066-plus-one) |
 | [1524-string-matching-in-an-array](https://github.com/Fiqqar/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Fiqqar/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Fiqqar/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Fiqqar/Leetcode/tree/master/0027-remove-element) |
 | [1894-merge-strings-alternately](https://github.com/Fiqqar/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
