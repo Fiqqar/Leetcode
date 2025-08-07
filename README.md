@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Fiqqar/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Fiqqar/Leetcode/tree/master/0070-climbing-stairs) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Fiqqar/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2556-convert-the-temperature](https://github.com/Fiqqar/Leetcode/tree/master/2556-convert-the-temperature) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Fiqqar/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Two Pointers
 |  |
