@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Fiqqar/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Fiqqar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1524-string-matching-in-an-array](https://github.com/Fiqqar/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [3194-find-words-containing-character](https://github.com/Fiqqar/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Fiqqar/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/Fiqqar/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Fiqqar/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1894-merge-strings-alternately](https://github.com/Fiqqar/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [3194-find-words-containing-character](https://github.com/Fiqqar/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Fiqqar/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3379-score-of-a-string](https://github.com/Fiqqar/Leetcode/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/Fiqqar/Leetcode/tree/master/3447-clear-digits) |
