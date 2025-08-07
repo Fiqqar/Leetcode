@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Fiqqar/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Fiqqar/Leetcode/tree/master/0125-valid-palindrome) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Fiqqar/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1205-defanging-an-ip-address](https://github.com/Fiqqar/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1524-string-matching-in-an-array](https://github.com/Fiqqar/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1894-merge-strings-alternately](https://github.com/Fiqqar/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [3194-find-words-containing-character](https://github.com/Fiqqar/Leetcode/tree/master/3194-find-words-containing-character) |
