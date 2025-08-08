@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Fiqqar/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Fiqqar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1524-string-matching-in-an-array](https://github.com/Fiqqar/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1635-number-of-good-pairs](https://github.com/Fiqqar/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Fiqqar/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/Fiqqar/Leetcode/tree/master/2058-concatenation-of-array) |
 | [3194-find-words-containing-character](https://github.com/Fiqqar/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Fiqqar/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Fiqqar/Leetcode/tree/master/0070-climbing-stairs) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Fiqqar/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1635-number-of-good-pairs](https://github.com/Fiqqar/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2556-convert-the-temperature](https://github.com/Fiqqar/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Fiqqar/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Fiqqar/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Fiqqar/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Fiqqar/Leetcode/tree/master/0013-roman-to-integer) |
+| [1635-number-of-good-pairs](https://github.com/Fiqqar/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Fiqqar/Leetcode/tree/master/1791-richest-customer-wealth) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/Fiqqar/Leetcode/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
