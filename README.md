@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Fiqqar/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3379-score-of-a-string](https://github.com/Fiqqar/Leetcode/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/Fiqqar/Leetcode/tree/master/3447-clear-digits) |
+| [3567-convert-date-to-binary](https://github.com/Fiqqar/Leetcode/tree/master/3567-convert-date-to-binary) |
 ## String Matching
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/Fiqqar/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Fiqqar/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Fiqqar/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3567-convert-date-to-binary](https://github.com/Fiqqar/Leetcode/tree/master/3567-convert-date-to-binary) |
 ## Two Pointers
 |  |
 | ------- |
