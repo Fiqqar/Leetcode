@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Fiqqar/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Fiqqar/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Fiqqar/Leetcode/tree/master/0088-merge-sorted-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fiqqar/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1524-string-matching-in-an-array](https://github.com/Fiqqar/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Fiqqar/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/Fiqqar/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Fiqqar/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Fiqqar/Leetcode/tree/master/0013-roman-to-integer) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fiqqar/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Fiqqar/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Fiqqar/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Binary Search
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Fiqqar/Leetcode/tree/master/0088-merge-sorted-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fiqqar/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Fiqqar/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3778-transform-array-by-parity](https://github.com/Fiqqar/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Matrix
@@ -180,5 +183,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fiqqar/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Fiqqar/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
