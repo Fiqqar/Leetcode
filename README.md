@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-score-of-a-string](https://github.com/Fiqqar/Leetcode/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/Fiqqar/Leetcode/tree/master/3447-clear-digits) |
 | [3567-convert-date-to-binary](https://github.com/Fiqqar/Leetcode/tree/master/3567-convert-date-to-binary) |
+| [3811-reverse-degree-of-a-string](https://github.com/Fiqqar/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Fiqqar/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Fiqqar/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3447-clear-digits](https://github.com/Fiqqar/Leetcode/tree/master/3447-clear-digits) |
+| [3811-reverse-degree-of-a-string](https://github.com/Fiqqar/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Linked List
 |  |
 | ------- |
