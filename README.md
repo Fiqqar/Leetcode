@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Fiqqar/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Fiqqar/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Fiqqar/Leetcode/tree/master/1651-shuffle-string) |
+| [1656-count-good-triplets](https://github.com/Fiqqar/Leetcode/tree/master/1656-count-good-triplets) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Fiqqar/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Fiqqar/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/Fiqqar/Leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -238,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/Fiqqar/Leetcode/tree/master/3226-minimum-number-game) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/Fiqqar/Leetcode/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
