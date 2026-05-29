@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Fiqqar/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3533-snake-in-matrix](https://github.com/Fiqqar/Leetcode/tree/master/3533-snake-in-matrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Fiqqar/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3701-compute-alternating-sum](https://github.com/Fiqqar/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3778-transform-array-by-parity](https://github.com/Fiqqar/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## String
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/Fiqqar/Leetcode/tree/master/3226-minimum-number-game) |
 | [3447-clear-digits](https://github.com/Fiqqar/Leetcode/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/Fiqqar/Leetcode/tree/master/3533-snake-in-matrix) |
+| [3701-compute-alternating-sum](https://github.com/Fiqqar/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3811-reverse-degree-of-a-string](https://github.com/Fiqqar/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Linked List
 |  |
