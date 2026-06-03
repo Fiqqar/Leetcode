@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-score-of-a-string](https://github.com/Fiqqar/Leetcode/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/Fiqqar/Leetcode/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/Fiqqar/Leetcode/tree/master/3533-snake-in-matrix) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Fiqqar/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3567-convert-date-to-binary](https://github.com/Fiqqar/Leetcode/tree/master/3567-convert-date-to-binary) |
 | [3794-reverse-string-prefix](https://github.com/Fiqqar/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3811-reverse-degree-of-a-string](https://github.com/Fiqqar/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Fiqqar/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Fiqqar/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Fiqqar/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Fiqqar/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Fiqqar/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Fiqqar/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Fiqqar/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Fiqqar/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3778-transform-array-by-parity](https://github.com/Fiqqar/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Database
 |  |
