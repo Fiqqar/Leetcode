@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Fiqqar/Leetcode/tree/master/0070-climbing-stairs) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Fiqqar/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1448-maximum-69-number](https://github.com/Fiqqar/Leetcode/tree/master/1448-maximum-69-number) |
+| [1486-xor-operation-in-an-array](https://github.com/Fiqqar/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Fiqqar/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/Fiqqar/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Fiqqar/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Fiqqar/Leetcode/tree/master/0067-add-binary) |
+| [1486-xor-operation-in-an-array](https://github.com/Fiqqar/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Fiqqar/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Fiqqar/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Sorting
