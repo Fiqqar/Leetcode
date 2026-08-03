@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Fiqqar/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Fiqqar/Leetcode/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/Fiqqar/Leetcode/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/Fiqqar/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Fiqqar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0605-can-place-flowers](https://github.com/Fiqqar/Leetcode/tree/master/0605-can-place-flowers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fiqqar/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Fiqqar/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Fiqqar/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Fiqqar/Leetcode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/Fiqqar/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Fiqqar/Leetcode/tree/master/0125-valid-palindrome) |
 | [0742-to-lower-case](https://github.com/Fiqqar/Leetcode/tree/master/0742-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Fiqqar/Leetcode/tree/master/0771-jewels-and-stones) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Fiqqar/Leetcode/tree/master/0079-word-search) |
 | [1791-richest-customer-wealth](https://github.com/Fiqqar/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Counting
 |  |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Fiqqar/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Fiqqar/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Fiqqar/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Fiqqar/Leetcode/tree/master/0101-symmetric-tree) |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/Fiqqar/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Fiqqar/Leetcode/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/Fiqqar/Leetcode/tree/master/0079-word-search) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Fiqqar/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
