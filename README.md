@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Fiqqar/Leetcode/tree/master/0125-valid-palindrome) |
 | [0742-to-lower-case](https://github.com/Fiqqar/Leetcode/tree/master/0742-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Fiqqar/Leetcode/tree/master/0771-jewels-and-stones) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Fiqqar/Leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Fiqqar/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/Fiqqar/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1524-string-matching-in-an-array](https://github.com/Fiqqar/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Fiqqar/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Fiqqar/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0975-range-sum-of-bst](https://github.com/Fiqqar/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Fiqqar/Leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Fiqqar/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Fiqqar/Leetcode/tree/master/0101-symmetric-tree) |
 | [0975-range-sum-of-bst](https://github.com/Fiqqar/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Fiqqar/Leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Fiqqar/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Fiqqar/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0975-range-sum-of-bst](https://github.com/Fiqqar/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Fiqqar/Leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
