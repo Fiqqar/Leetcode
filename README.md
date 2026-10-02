@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Fiqqar/Leetcode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Fiqqar/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Fiqqar/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Fiqqar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0605-can-place-flowers](https://github.com/Fiqqar/Leetcode/tree/master/0605-can-place-flowers) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Fiqqar/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fiqqar/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Fiqqar/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Fiqqar/Leetcode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Fiqqar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Fiqqar/Leetcode/tree/master/0509-fibonacci-number) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Fiqqar/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Memoization
