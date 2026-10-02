@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Fiqqar/Leetcode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Fiqqar/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Fiqqar/Leetcode/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/Fiqqar/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Fiqqar/Leetcode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Fiqqar/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Fiqqar/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Fiqqar/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Fiqqar/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Fiqqar/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Fiqqar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Fiqqar/Leetcode/tree/master/0509-fibonacci-number) |
@@ -351,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Fiqqar/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Fiqqar/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
