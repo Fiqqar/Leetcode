@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Fiqqar/Leetcode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Fiqqar/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Fiqqar/Leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Fiqqar/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Fiqqar/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Fiqqar/Leetcode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Fiqqar/Leetcode/tree/master/0079-word-search) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Fiqqar/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Fiqqar/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Fiqqar/Leetcode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Fiqqar/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Fiqqar/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Fiqqar/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Fiqqar/Leetcode/tree/master/0069-sqrtx) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Fiqqar/Leetcode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/Fiqqar/Leetcode/tree/master/0079-word-search) |
 | [1791-richest-customer-wealth](https://github.com/Fiqqar/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Counting
