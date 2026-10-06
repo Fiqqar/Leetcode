@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Fiqqar/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Fiqqar/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Fiqqar/Leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Fiqqar/Leetcode/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/Fiqqar/Leetcode/tree/master/0509-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Fiqqar/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1448-maximum-69-number](https://github.com/Fiqqar/Leetcode/tree/master/1448-maximum-69-number) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Fiqqar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Fiqqar/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Fiqqar/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Fiqqar/Leetcode/tree/master/0202-happy-number) |
 | [1894-merge-strings-alternately](https://github.com/Fiqqar/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Fiqqar/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/Fiqqar/Leetcode/tree/master/3794-reverse-string-prefix) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Fiqqar/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Fiqqar/Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Fiqqar/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Fiqqar/Leetcode/tree/master/0202-happy-number) |
 | [0771-jewels-and-stones](https://github.com/Fiqqar/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Fiqqar/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fiqqar/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -391,4 +394,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Fiqqar/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Fiqqar/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
