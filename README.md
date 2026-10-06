@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Fiqqar/Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Fiqqar/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Fiqqar/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Fiqqar/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [3447-clear-digits](https://github.com/Fiqqar/Leetcode/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Fiqqar/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Fiqqar/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Fiqqar/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Fiqqar/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/Fiqqar/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Fiqqar/Leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 ## Depth-First Search
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Fiqqar/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Fiqqar/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Fiqqar/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Fiqqar/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/Fiqqar/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Fiqqar/Leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 ## Binary Search Tree
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Fiqqar/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Fiqqar/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Fiqqar/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Fiqqar/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/Fiqqar/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Fiqqar/Leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 ## Heap (Priority Queue)
