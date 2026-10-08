@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Fiqqar/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Fiqqar/Leetcode/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/Fiqqar/Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Fiqqar/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Fiqqar/Leetcode/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/Fiqqar/Leetcode/tree/master/0509-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Fiqqar/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Fiqqar/Leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Fiqqar/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Fiqqar/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/Fiqqar/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Fiqqar/Leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Fiqqar/Leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Fiqqar/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Fiqqar/Leetcode/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/Fiqqar/Leetcode/tree/master/0231-power-of-two) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Fiqqar/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1486-xor-operation-in-an-array](https://github.com/Fiqqar/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Fiqqar/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
