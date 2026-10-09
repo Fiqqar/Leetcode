@@ -1,30 +1,34 @@
-
-#include <string>
-using namespace std;
-
 class Solution {
-    static inline bool isPal(const char* s, int l, int r) {
-        while (l < r) {
-            if (s[l] != s[r]) return false;
-            ++l;
-            --r;
-        }
-        return true;
-    }
-
 public:
-    bool validPalindrome(const string& s) {
-        const char* p = s.data();
-        int l = 0;
-        int r = static_cast<int>(s.size()) - 1;
+    bool validPalindrome(string s) {
+        int left = 0, right = s.size() - 1;
 
-        while (l < r && p[l] == p[r]) {
-            ++l;
-            --r;
+        while (left < right) {
+            if (s[left] != s[right]) {
+                int l = left + 1, r = right;
+
+                while (l < r && s[l] == s[r]) {
+                    ++l;
+                    --r;
+                }
+
+                if (l >= r) return true;
+
+                l = left;
+                r = right - 1;
+
+                while (l < r && s[l] == s[r]) {
+                    ++l;
+                    --r;
+                }
+
+                return l >= r;
+            }
+
+            ++left;
+            --right;
         }
 
-        return l >= r ||
-               isPal(p, l + 1, r) ||
-               isPal(p, l, r - 1);
+        return true;
     }
 };
