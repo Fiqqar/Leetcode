@@ -1,34 +1,26 @@
+
 class Solution {
+    static bool isPal(const string& s, int l, int r) {
+        while (l < r) {
+            if (s[l] != s[r]) return false;
+            ++l;
+            --r;
+        }
+        return true;
+    }
+
 public:
     bool validPalindrome(string s) {
-        int left = 0, right = s.size() - 1;
+        int l = 0, r = static_cast<int>(s.size()) - 1;
 
-        while (left < right) {
-            if (s[left] != s[right]) {
-                int l = left + 1, r = right;
-
-                while (l < r && s[l] == s[r]) {
-                    ++l;
-                    --r;
-                }
-
-                if (l >= r) return true;
-
-                l = left;
-                r = right - 1;
-
-                while (l < r && s[l] == s[r]) {
-                    ++l;
-                    --r;
-                }
-
-                return l >= r;
-            }
-
-            ++left;
-            --right;
+        while (l < r && s[l] == s[r]) {
+            ++l;
+            --r;
         }
 
-        return true;
+        if (l >= r) return true;
+
+        return isPal(s, l + 1, r) ||
+               isPal(s, l, r - 1);
     }
 };
