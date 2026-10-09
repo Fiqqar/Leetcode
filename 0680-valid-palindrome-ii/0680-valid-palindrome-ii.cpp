@@ -2,15 +2,13 @@
 class Solution {
     static bool isPal(const string& s, int l, int r) {
         while (l < r) {
-            if (s[l] != s[r]) return false;
-            ++l;
-            --r;
+            if (s[l++] != s[r--]) return false;
         }
         return true;
     }
 
 public:
-    bool validPalindrome(string s) {
+    bool validPalindrome(const string& s) {
         int l = 0, r = static_cast<int>(s.size()) - 1;
 
         while (l < r && s[l] == s[r]) {
@@ -18,9 +16,8 @@ public:
             --r;
         }
 
-        if (l >= r) return true;
-
-        return isPal(s, l + 1, r) ||
+        return l >= r ||
+               isPal(s, l + 1, r) ||
                isPal(s, l, r - 1);
     }
 };
