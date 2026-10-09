@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Fiqqar/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1944-truncate-sentence](https://github.com/Fiqqar/Leetcode/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Fiqqar/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Fiqqar/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Fiqqar/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/Fiqqar/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Fiqqar/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Fiqqar/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0680-valid-palindrome-ii](https://github.com/Fiqqar/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1894-merge-strings-alternately](https://github.com/Fiqqar/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Fiqqar/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Fiqqar/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/Fiqqar/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Fiqqar/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1448-maximum-69-number](https://github.com/Fiqqar/Leetcode/tree/master/1448-maximum-69-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Fiqqar/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Fiqqar/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Counting Sort
 |  |
 | ------- |
