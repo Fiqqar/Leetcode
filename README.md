@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Fiqqar/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Fiqqar/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Fiqqar/Leetcode/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/Fiqqar/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Fiqqar/Leetcode/tree/master/0509-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Fiqqar/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1448-maximum-69-number](https://github.com/Fiqqar/Leetcode/tree/master/1448-maximum-69-number) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Fiqqar/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Fiqqar/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Fiqqar/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Fiqqar/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Fiqqar/Leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
