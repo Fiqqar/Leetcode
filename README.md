@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Fiqqar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Fiqqar/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Fiqqar/Leetcode/tree/master/0137-single-number-ii) |
+| [0283-move-zeroes](https://github.com/Fiqqar/Leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/Fiqqar/Leetcode/tree/master/0605-can-place-flowers) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Fiqqar/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fiqqar/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Fiqqar/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Fiqqar/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Fiqqar/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Fiqqar/Leetcode/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/Fiqqar/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1894-merge-strings-alternately](https://github.com/Fiqqar/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Fiqqar/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
